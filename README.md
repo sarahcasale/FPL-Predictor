@@ -1,5 +1,4 @@
-# FPL-Predictor
-Fantasy Premier League Team Predictor
+# Fantasy Premier League Predictor
 
 The purpose of this project is to enable Fantasty Premier League players to better analyze the performance of players and therefore be able to make a more informed decision about which players they should buy, hold, or sell throughout the course of the season.
 
